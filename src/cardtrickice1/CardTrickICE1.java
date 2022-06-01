@@ -20,9 +20,7 @@ public class CardTrickICE1 {
     public static void main(String[] args) {
         Scanner kb = new Scanner(System.in);
         Card[] magicHand = new Card[7]; // Array of object
-        Card luckyCard = new Card();
-        luckyCard.setValue(6);
-        luckyCard.setSuits("diamonds");
+   
         for (int i = 0; i < magicHand.length; i++) {
             Card c1 = new Card();
             c1.setValue(Card.RandomValue());
