@@ -13,7 +13,7 @@ package cardtrickice1;
  */
 public class CardTrickICE1 {
 
-    /**
+    /**test
      * @param args the command line arguments
      */
     public static void main(String[] args) 
